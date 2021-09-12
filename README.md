@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicochiavenato
 - 👀 I’m interested in Python
-- 🦊 I have a few codes at [gitlab](https://gitlab.com/nicochiavenato) 
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/feed/)
+- 🦊 I have a few codes at: [gitlab](https://gitlab.com/nicochiavenato) 
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nicolau-chiavenato-rodrigues/)
 
 <!---
 nicochiavenato/nicochiavenato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
