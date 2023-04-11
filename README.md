@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nicochiavenato
 - 👀 I’m interested in Python
-- 🦊 I have a few codes at: [gitlab](https://gitlab.com/nicochiavenato) 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nicolau-chiavenato-rodrigues/)
 
 <!---
